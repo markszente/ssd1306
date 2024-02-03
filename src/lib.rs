@@ -116,8 +116,6 @@ pub mod mode;
 pub mod prelude;
 pub mod rotation;
 pub mod size;
-#[doc(hidden)]
-pub mod test_helpers;
 
 use core::convert::Infallible;
 
